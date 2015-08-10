@@ -1,0 +1,5 @@
+E:\VSprojects\Demo\Exercise3\bin\Debug\Exercise3.exe.config
+E:\VSprojects\Demo\Exercise3\bin\Debug\Exercise3.exe
+E:\VSprojects\Demo\Exercise3\bin\Debug\Exercise3.pdb
+E:\VSprojects\Demo\Exercise3\obj\Debug\Exercise3.exe
+E:\VSprojects\Demo\Exercise3\obj\Debug\Exercise3.pdb

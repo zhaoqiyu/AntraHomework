@@ -1,0 +1,12 @@
+c:\users\allen\documents\visual studio 2015\Projects\Demo\DemoTask\bin\Debug\DemoTask.exe.config
+c:\users\allen\documents\visual studio 2015\Projects\Demo\DemoTask\bin\Debug\DemoTask.exe
+c:\users\allen\documents\visual studio 2015\Projects\Demo\DemoTask\bin\Debug\DemoTask.pdb
+c:\users\allen\documents\visual studio 2015\Projects\Demo\DemoTask\obj\Debug\DemoTask.csprojResolveAssemblyReference.cache
+c:\users\allen\documents\visual studio 2015\Projects\Demo\DemoTask\obj\Debug\DemoTask.exe
+c:\users\allen\documents\visual studio 2015\Projects\Demo\DemoTask\obj\Debug\DemoTask.pdb
+E:\VSprojects\Demo\DemoTask\bin\Debug\DemoTask.exe.config
+E:\VSprojects\Demo\DemoTask\obj\Debug\DemoTask.exe
+E:\VSprojects\Demo\DemoTask\obj\Debug\DemoTask.pdb
+E:\VSprojects\Demo\DemoTask\bin\Debug\DemoTask.exe
+E:\VSprojects\Demo\DemoTask\bin\Debug\DemoTask.pdb
+E:\VSprojects\Demo\DemoTask\obj\Debug\DemoTask.csprojResolveAssemblyReference.cache

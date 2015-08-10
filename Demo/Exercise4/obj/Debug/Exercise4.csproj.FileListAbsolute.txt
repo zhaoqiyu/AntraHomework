@@ -1,0 +1,6 @@
+E:\VSprojects\Demo\Exercise4\bin\Debug\Exercise4.exe.config
+E:\VSprojects\Demo\Exercise4\bin\Debug\Exercise4.exe
+E:\VSprojects\Demo\Exercise4\bin\Debug\Exercise4.pdb
+E:\VSprojects\Demo\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
+E:\VSprojects\Demo\Exercise4\obj\Debug\Exercise4.exe
+E:\VSprojects\Demo\Exercise4\obj\Debug\Exercise4.pdb
