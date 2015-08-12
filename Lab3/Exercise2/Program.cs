@@ -119,8 +119,8 @@ namespace Exercise2
             SmallApartment mySmallApartament = new SmallApartment();
             Person myPerson = new Person();
 
-            //myPerson.Name = "Kishore";
-            //myPerson.House = mySmallApartament;
+            myPerson.Name = "Kishore";
+            myPerson.House = mySmallApartament;
             myPerson.ShowData();
 
             if (debug)
