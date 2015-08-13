@@ -1,0 +1,6 @@
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise4\bin\Debug\Exercise4.exe.config
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise4\bin\Debug\Exercise4.exe
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise4\bin\Debug\Exercise4.pdb
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise4\obj\Debug\Exercise4.exe
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise4\obj\Debug\Exercise4.pdb

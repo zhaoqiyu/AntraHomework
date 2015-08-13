@@ -1,0 +1,5 @@
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise3\bin\Debug\Exercise3.exe.config
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise3\bin\Debug\Exercise3.exe
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise3\bin\Debug\Exercise3.pdb
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise3\obj\Debug\Exercise3.exe
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\Exercise3\obj\Debug\Exercise3.pdb
