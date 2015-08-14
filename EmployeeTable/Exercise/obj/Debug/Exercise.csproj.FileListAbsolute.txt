@@ -1,0 +1,12 @@
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\EmployeeTable\Exercise\bin\Debug\Exercise.exe.config
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\EmployeeTable\Exercise\bin\Debug\Exercise.exe
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\EmployeeTable\Exercise\bin\Debug\Exercise.pdb
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\EmployeeTable\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\EmployeeTable\Exercise\obj\Debug\Exercise.exe
+c:\users\qiyu\documents\visual studio 2015\Projects\MailHomework1\EmployeeTable\Exercise\obj\Debug\Exercise.pdb
+E:\VSprojects\AntraHomework\EmployeeTable\Exercise\bin\Debug\Exercise.exe.config
+E:\VSprojects\AntraHomework\EmployeeTable\Exercise\obj\Debug\Exercise.exe
+E:\VSprojects\AntraHomework\EmployeeTable\Exercise\obj\Debug\Exercise.pdb
+E:\VSprojects\AntraHomework\EmployeeTable\Exercise\bin\Debug\Exercise.exe
+E:\VSprojects\AntraHomework\EmployeeTable\Exercise\bin\Debug\Exercise.pdb
+E:\VSprojects\AntraHomework\EmployeeTable\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
