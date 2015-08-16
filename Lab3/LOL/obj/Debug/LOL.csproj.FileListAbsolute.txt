@@ -1,0 +1,6 @@
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\LOL\bin\Debug\LOL.exe.config
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\LOL\bin\Debug\LOL.exe
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\LOL\bin\Debug\LOL.pdb
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\LOL\obj\Debug\LOL.csprojResolveAssemblyReference.cache
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\LOL\obj\Debug\LOL.exe
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\LOL\obj\Debug\LOL.pdb
