@@ -1,0 +1,6 @@
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise3\obj\Debug\Exercise3.csprojResolveAssemblyReference.cache
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise3\obj\Debug\Exercise3.pdb
