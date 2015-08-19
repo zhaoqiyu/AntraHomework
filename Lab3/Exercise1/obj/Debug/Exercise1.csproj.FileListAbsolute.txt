@@ -4,3 +4,6 @@ c:\users\qiyu\documents\visual studio 2015\Projects\Lab3\Exercise1\bin\Debug\Exe
 c:\users\qiyu\documents\visual studio 2015\Projects\Lab3\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
 c:\users\qiyu\documents\visual studio 2015\Projects\Lab3\Exercise1\obj\Debug\Exercise1.exe
 c:\users\qiyu\documents\visual studio 2015\Projects\Lab3\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise1\obj\Debug\Exercise1.pdb

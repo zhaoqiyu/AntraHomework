@@ -7,3 +7,9 @@ c:\users\qiyu\documents\visual studio 2015\Projects\Lab3\Exercise2\obj\Debug\Exe
 E:\VSprojects\AntraHomework\Lab3\Exercise2\bin\Debug\Exercise2.exe.config
 E:\VSprojects\AntraHomework\Lab3\Exercise2\obj\Debug\Exercise2.exe
 E:\VSprojects\AntraHomework\Lab3\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Allen\Documents\GitHub\AntraHomework\Lab3\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
