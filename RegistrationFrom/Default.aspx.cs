@@ -5,12 +5,14 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class SignUp : System.Web.UI.Page
+public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e) {
 
     }
-    protected void btnCreateAccount_Click(object sender, EventArgs e) {
-        ClientScript.RegisterStartupScript(GetType(), "onClick", "<script>alert('account created');</script>");
+
+    protected void Submit_Click(object sender, EventArgs e) {
+        labSubmit.Text = "***Registration Successful***";
+        labSubmit.ForeColor = System.Drawing.Color.Green;
     }
 }

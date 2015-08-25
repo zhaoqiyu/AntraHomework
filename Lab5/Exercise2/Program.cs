@@ -25,6 +25,12 @@ namespace exercise2
         [STAThread]
         static void Main(string[] args) {
             a a = new b();
+            Console.ReadKey();
         }
     }
 }
+
+/* The output of this code will be 
+n = 2
+n = 10
+*/
